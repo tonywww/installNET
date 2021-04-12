@@ -102,4 +102,4 @@ bash InstallNET.sh -c 6.9 -v 64 -a --mirror 'http://mirror.centos.org/centos'
  ```
 
 ## License
-[BSD 2-Clause](LICENSE.txt) © tonywww
+[BSD 2-Clause](LICENSE) © tonywww
