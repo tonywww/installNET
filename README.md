@@ -8,16 +8,16 @@ Credit: Vicer - moeclub
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#install-required-tools-on">Install required tools</a>
+      <a href="#1-install-required-tools-on">Install required tools</a>
     </li>
     <li>
-      <a href="#Express-Install-Example">Express Install Example</a>
+      <a href="#2-express-install-example-debian10-x64-default-root-password-is-mypass">Express Install Example</a>
     </li>
     <li>
-      <a href="#Install-Syntax">Install Syntax</a>
+      <a href="#3-install-syntax">Install Syntax</a>
     </li>
     <li>
-      <a href="#Advance-Example">Advance Example</a>
+      <a href="#4-advance-example">Advance Example</a>
     </li>
     <li><a href="#license">License</a></li>
   </ol>
