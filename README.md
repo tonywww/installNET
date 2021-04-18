@@ -42,7 +42,7 @@ yum install -y xz openssl gawk file
 ```
 ## 2. Express Install Example (Debian10 x64, default root password is 'mypass'):
 ```
-bash <(wget -qO- 'https://raw.githubusercontent.com/tonywww/installNET/master/InstallNET.sh') -d 10 -v 64 -a -p 'mypass'
+bash <(wget -qO- 'https://raw.githubusercontent.com/tonywww/installNET/master/InstallNET.sh') -d 10 -v 64 -a -p 'mypass' -firmware
 ```
 ## 3. Install Syntax:
 
@@ -73,6 +73,7 @@ Usage:
 # -apt/-yum/--mirror : 使用定义镜像
 # -a/-m : 询问是否能进入VNC自行操作. -a 为不提示(一般用于全自动安装), -m 为提示.
 # -p : set default password
+# -firmware 额外驱动支持
 # --ip-addr :IP Address/IP地址
 # --ip-gate :Gateway   /网关
 # --ip-mask :Netmask   /子网掩码
