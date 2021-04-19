@@ -42,7 +42,7 @@ yum install -y xz openssl gawk file
 ```
 ## 2. Express Install Example (Debian10 x64, default root password is 'mypass'):
 ```
-bash <(wget -qO- 'https://git.io/InstallNET.sh') -d 10 -v 64 -a -p 'mypass' -firmware
+bash <(wget -qO- 'https://git.io/installNET.sh') -d 10 -v 64 -a -p 'mypass' -firmware
 ```
 ## 3. Install Syntax:
 
