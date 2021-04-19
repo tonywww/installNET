@@ -1,7 +1,8 @@
 # installNET
 install Linux OS or Windows on linux server
 
-Credit: Vicer - moeclub
+Project short url: https://git.io/installnet
+
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -104,3 +105,5 @@ bash InstallNET.sh -c 6.9 -v 64 -a --mirror 'http://mirror.centos.org/centos'
 
 ## License
 [BSD 2-Clause](LICENSE) © tonywww
+
+Credit: Vicer - MoeClub.org
